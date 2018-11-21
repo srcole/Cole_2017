@@ -17,4 +17,4 @@ This repo contains one notebook per figure, showing the computation for each pan
 
 ## Quantifying oscillation shape
 
-For future studies characterizing the waveform shape of oscillations, see the actively maintained `shape` module in [neurodsp](https://github.com/voytekresearch/neurodsp).
+For future studies characterizing the waveform shape of oscillations, use the stable package, [bycycle](https://github.com/voytekresearch/bycycle).
